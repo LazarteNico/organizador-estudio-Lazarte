@@ -1,2 +1,3 @@
 - Revisar apuntes
 - Preparar resumen
+- Hacer la práctica de Git
