@@ -1,3 +1,3 @@
-- Revisar apuntes
+- Revisar apuntes de control de versiones.
 - Preparar resumen
 - Hacer la práctica de Git
